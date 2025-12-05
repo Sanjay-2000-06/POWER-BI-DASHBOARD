@@ -2,7 +2,7 @@
  
 Power BI dashboard and datasets for analysis of Paris 2024 Olympic Games — medal tallies, athlete demographics, trends and visualizations.
 
-> Project summary (source): This project integrates Olympic medal and athlete datasets to provide an interactive dashboard for analyzing countries, athletes, medals over time, and gender/age insights. :contentReference[oaicite:1]{index=1}
+> Project summary (source): This project integrates Olympic medal and athlete datasets to provide an interactive dashboard for analyzing countries, athletes, medals over time, and gender/age insights.
 
 ---
 
